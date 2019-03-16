@@ -21,6 +21,6 @@ python script.py
 # Screenshot
 
 ![alt text](https://image.noelshack.com/fichiers/2019/11/6/1552757637-sans-titre.png) 
-![alt text](https://image.noelshack.com/fichiers/2019/11/6/1552757632-graphique.png) 
+![alt text](https://image.noelshack.com/fichiers/2019/11/6/1552760308-graphique.png) 
 
  
