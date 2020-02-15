@@ -20,7 +20,7 @@ python script.py
 
 # Screenshot
 
-![alt text](https://image.noelshack.com/fichiers/2019/11/6/1552757637-sans-titre.png) 
-![alt text](https://image.noelshack.com/fichiers/2019/11/6/1552760308-graphique.png) 
+![Graphique](https://nsa40.casimages.com/img/2020/02/15/200215104639291124.png) 
+![Console](https://nsa40.casimages.com/img/2020/02/15/200215104639379584.png) 
 
  
